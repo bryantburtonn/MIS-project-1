@@ -5,8 +5,7 @@
 
 
 <h1 style="text-align: center;">My name is Bryant</h1>
-
-<h2 style="text-align: center;">Welcome to my site!</h2>
+<div style="background-color:rgb(255, 255, 0);"><h2 style="text-align: center;">Welcome to my site!</h2>
 
 <h3 style="text-align: center;">About Me</h3>
 
